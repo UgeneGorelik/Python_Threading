@@ -1,4 +1,4 @@
 # PythonThreading
-Examples on Threads
+Examples in  Threading
 
 Basic examples on  Multi threading and Multi processing
