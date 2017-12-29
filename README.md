@@ -1,4 +1,26 @@
-# PythonThreading
-Examples in  Threading
+EventsStudy.py:
+how to set flags when tread can procedeed
 
-Basic examples on  Multi threading and Multi processing
+_______________________
+
+LocksStudy.py:
+how to lock resources
+
+_______________________
+
+OverrideThreadClass.py:
+how to tkae origanl threading class and alter it
+_______________________
+
+Thread_Queue.py:
+use Queue/priorityQueue to share data between threads
+
+_______________________
+
+ThreadsBasic.py:
+Basic thread example
+
+_______________________
+
+multiprocess_ex.py:
+Basic multiprocessing example
