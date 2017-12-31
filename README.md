@@ -1,5 +1,5 @@
 EventsStudy.py:
-how to set flags when tread can procedeed
+how to set flags when declaring when other tread can proced /stop
 
 _______________________
 
