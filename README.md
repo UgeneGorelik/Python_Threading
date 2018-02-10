@@ -28,14 +28,14 @@ _______________________
 
 
 ThreadPoolExample.py:
-_______________________
 Example on basic Pool
+_______________________
 
 
 RlockExample.py:
-_______________________
 Rlock example
+_______________________
 
 SemaphoreExample.py:
-_______________________
 Semaphore Example
+_______________________
